@@ -1,0 +1,4 @@
+watchdog==0.10.2
+boto3==1.13.1
+playsound==1.2.2
+pyobjc==6.2
